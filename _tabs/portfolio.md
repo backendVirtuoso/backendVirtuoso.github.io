@@ -5,6 +5,7 @@ order: 4
 ---
 
 > 지금까지 진행한 프로젝트를 정리합니다.
+
 &nbsp; 
 
 ###  경기도 사고 유형별 위치 조회 프로젝트 / 2024.05.28 ~ 2024.06.04
@@ -33,16 +34,18 @@ order: 4
 
 
 
-### K-Sketch (여행 경로 추천 서비스) / 2024.10.15 ~ (진행 중)
-- 카프카 + STOMP 채팅 서비스
-- 여행 일정 생성 및 조회, 수정 기능 구현
-- 포트폴리오: 1. [깃허브/K-Sketch](https://github.com/dreamy-travel/K-Sketch)
-
-
-
 ### 포트폴리오용 웹 사이트 구축 / 2024.07.29 ~ 2024.08.18
 - OAuth2 소셜로그인 구현
 - 이메일 전송 기능
 - AWS Lightsail을 이용한 클라우드 배포
 - CLOUDTYPE를 통해 클라우드 배포
 - 포트폴리오: 1. [깃허브/portfolio-website](https://github.com/backendVirtuoso/portfolio-website), 2. [배포 사이트](https://hjh-portfolio.info/home)
+
+
+
+### K-Sketch (여행 경로 추천 서비스) / 2024.10.15 ~ (진행 중)
+- 카프카 + STOMP 채팅 서비스
+- 여행 일정 생성 및 조회, 수정 기능 구현
+- 포트폴리오: 1. [깃허브/K-Sketch](https://github.com/dreamy-travel/K-Sketch)
+
+
