@@ -1,35 +1,57 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<script/>
-<script/>
-<!--    created with Free Online Sitemap Generator www.xml-sitemaps.com    -->
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-<loc>https://backendvirtuoso.github.io</loc>
-<lastmod>2025-01-31T02:55:02+00:00</lastmod>
-<priority>1.00</priority>
+  <loc>https://backendvirtuoso.github.io/</loc>
+  <lastmod>2025-02-04T16:33:07+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>https://backendvirtuoso.github.io/categories/</loc>
-<lastmod>2025-01-31T02:55:02+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://backendvirtuoso.github.io/categories/</loc>
+  <lastmod>2025-02-04T16:33:07+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://backendvirtuoso.github.io/tags/</loc>
-<lastmod>2025-01-31T02:55:02+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://backendvirtuoso.github.io/tags/</loc>
+  <lastmod>2025-02-04T16:33:07+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://backendvirtuoso.github.io/archives/</loc>
-<lastmod>2025-01-31T02:55:02+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://backendvirtuoso.github.io/archives/</loc>
+  <lastmod>2025-02-04T16:33:07+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://backendvirtuoso.github.io/about/</loc>
-<lastmod>2025-01-31T02:55:02+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://backendvirtuoso.github.io/portfolio/</loc>
+  <lastmod>2025-02-04T16:33:07+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://backendvirtuoso.github.io/posts/first/</loc>
-<lastmod>2025-01-31T02:55:02+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://backendvirtuoso.github.io/about/</loc>
+  <lastmod>2025-02-04T16:33:07+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
+<url>
+  <loc>https://backendvirtuoso.github.io/posts/fork%ED%95%9C-%EA%B9%83-%EC%9E%94%EB%94%94-%ED%91%9C%EC%8B%9C%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/</loc>
+  <lastmod>2025-02-04T16:33:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://backendvirtuoso.github.io/posts/github-blog-make/</loc>
+  <lastmod>2025-02-04T16:33:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://backendvirtuoso.github.io/gsitm-react-traffic-safety/</loc>
+  <lastmod>2024-12-13T07:52:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
