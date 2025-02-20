@@ -84,22 +84,21 @@ endif %}
     {% for _include in layout.script_includes %} {% assign _include_path =
     _include | append: '.html' %} {% include {{ _include_path }} %} {% endfor %}
     {% include_cached search-loader.html lang=lang %}
+    
+    <script 
+      async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6063184599827307"
+      crossorigin="anonymous"
+    ></script>
+    <!-- blog ad -->
+    <ins
+      class="adsbygoogle"
+      style="display:block"
+        data-ad-client="ca-pub-6063184599827307"
+        data-ad-slot="3150346901"
+        data-ad-format="auto"
+        data-full-width-responsive="true"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
   </body>
-  <script
-    async
-    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6063184599827307"
-    crossorigin="anonymous"
-  ></script>
-  <!-- blog ad -->
-  <ins
-    class="adsbygoogle"
-    style="display: block"
-    data-ad-client="ca-pub-6063184599827307"
-    data-ad-slot="3150346901"
-    data-ad-format="auto"
-    data-full-width-responsive="true"
-  ></ins>
-  <script>
-    (adsbygoogle = window.adsbygoogle || []).push({});
-  </script>
 </html>
